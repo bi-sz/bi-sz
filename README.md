@@ -16,7 +16,7 @@
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="[[https://your-portfolio-link](https://bi-sz.github.io/portfolio/)">
-        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=your-logo&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"> 
     </a>
     <a href="https://velog.io/@bi-sz">
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
