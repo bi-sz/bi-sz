@@ -37,6 +37,11 @@ AI를 활용한 개발 및 자동화에도 관심을 가지고 있습니다.
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-4A5568?style=flat-square&logoColor=white)
 
+**Infrastructure & Communication**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4353FF?style=flat-square&logoColor=white)
+
 **AI Tools**  
 ![Cursor](https://img.shields.io/badge/Cursor-222222?style=flat-square&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
