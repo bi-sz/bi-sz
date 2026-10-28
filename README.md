@@ -50,6 +50,5 @@ AI를 활용한 개발 및 자동화에도 관심을 가지고 있습니다.
 ## 📬 Contact
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kwonbe99@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kwonbi_)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6994CD&height=90&section=footer)
