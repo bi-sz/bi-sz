@@ -32,8 +32,10 @@ AI를 활용한 개발 및 자동화에도 관심을 가지고 있습니다.
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 
 **Database**  
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4A5568?style=flat-square&logoColor=white)
 
 **AI Tools**  
 ![Cursor](https://img.shields.io/badge/Cursor-222222?style=flat-square&logoColor=white)
