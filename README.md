@@ -5,8 +5,9 @@
 
 ### 안녕하세요, 만들고 개선하는 개발자입니다 👋
 
-Java / Spring 기반 웹 서비스를 개발하고 운영하며,  
-React · Vue · TypeScript와 AI 도구를 활용해 개발 영역을 넓히고 있습니다.
+Java · Spring Boot 기반의 백엔드 개발을 중심으로,  
+React · Vue 를활용한 프론트엔드 개발까지 수행하는 풀스택 개발자입니다.  
+AI를 활용한 효율적인 개발 방식과 새로운 기술을 꾸준히 탐구하고 있습니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6994CD?style=for-the-badge&logo=githubpages&logoColor=white)](https://bi-sz.github.io/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@bi-sz)
