@@ -1,389 +1,340 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="806" height="190" viewBox="0 0 806 190">
-<style>text{font-family:Arial,Helvetica,sans-serif;fill:#a7b1bd}.title{fill:#e6edf3;font-size:16px;font-weight:bold}.sub{font-size:11px}.month{font-size:10px}.day{font-size:10px}</style>
-<rect width="806" height="190" rx="12" fill="#0d1117"/>
-<text x="18" y="24" class="title">Cursor Activity (GitHub pending)</text>
-<text x="18" y="40" class="sub">Blue: Cursor activity · GitHub not yet imported</text>
-<text x="10" y="71" class="day">Mon</text>
-<text x="10" y="99" class="day">Wed</text>
-<text x="10" y="127" class="day">Fri</text>
-<rect x="44" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-10-26: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="44" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-10-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="44" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-10-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="44" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-10-29: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="44" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-10-30: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="44" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-10-31: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="44" y="43" class="month">Nov</text>
-<rect x="44" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="58" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-02: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="58" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-03: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="58" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-04: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="58" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-05: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="58" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-06: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="58" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-07: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="58" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-08: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="72" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-09: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="72" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-10: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="72" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="72" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-12: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="72" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-13: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="72" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-14: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="72" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-15: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="86" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-16: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="86" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="86" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-18: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="86" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="86" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-20: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="86" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-21: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="86" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-22: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="100" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="100" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-24: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="100" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="100" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-26: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="100" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="100" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="100" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-29: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="114" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-11-30: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="114" y="43" class="month">Dec</text>
-<rect x="114" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="114" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-02: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="114" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-03: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="114" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-04: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="114" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-05: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="114" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-06: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="128" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-07: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="128" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-08: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="128" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-09: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="128" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-10: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="128" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="128" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-12: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="128" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-13: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="142" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-14: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="142" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-15: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="142" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-16: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="142" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="142" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-18: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="142" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="142" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-20: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="156" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-21: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="156" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-22: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="156" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="156" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-24: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="156" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="156" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-26: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="156" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="170" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="170" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-29: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="170" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-30: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="170" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2025-12-31: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="170" y="43" class="month">Jan</text>
-<rect x="170" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="170" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-02: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="170" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-03: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="184" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-04: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="184" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-05: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="184" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-06: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="184" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-07: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="184" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-08: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="184" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-09: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="184" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-10: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="198" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="198" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-12: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="198" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-13: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="198" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-14: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="198" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-15: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="198" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-16: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="198" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="212" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-18: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="212" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="212" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-20: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="212" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-21: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="212" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-22: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="212" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="212" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-24: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="226" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="226" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-26: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="226" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="226" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="226" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-29: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="226" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-30: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="226" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-01-31: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="240" y="43" class="month">Feb</text>
-<rect x="240" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="240" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-02: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="240" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-03: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="240" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-04: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="240" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-05: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="240" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-06: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="240" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-07: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="254" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-08: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="254" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-09: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="254" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-10: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="254" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="254" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-12: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="254" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-13: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="254" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-14: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="268" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-15: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="268" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-16: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="268" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="268" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-18: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="268" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="268" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-20: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="268" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-21: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="282" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-22: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="282" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="282" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-24: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="282" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="282" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-26: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="282" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="282" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-02-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="296" y="43" class="month">Mar</text>
-<rect x="296" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="296" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-02: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="296" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-03: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="296" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-04: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="296" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-05: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="296" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-06: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="296" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-07: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="310" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-08: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="310" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-09: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="310" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-10: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="310" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="310" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-12: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="310" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-13: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="310" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-14: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="324" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-15: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="324" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-16: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="324" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="324" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-18: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="324" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="324" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-20: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="324" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-21: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="338" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-22: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="338" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="338" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-24: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="338" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="338" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-26: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="338" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="338" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="352" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-29: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="352" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-30: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="352" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-03-31: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="352" y="43" class="month">Apr</text>
-<rect x="352" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="352" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-02: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="352" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-03: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="352" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-04: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="366" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-05: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="366" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-06: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="366" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-07: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="366" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-08: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="366" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-09: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="366" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-10: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="366" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="380" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-12: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="380" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-13: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="380" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-14: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="380" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-15: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="380" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-16: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="380" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="380" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-18: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="394" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="394" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-20: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="394" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-21: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="394" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-22: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="394" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="394" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-24: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="394" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="408" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-26: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="408" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="408" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="408" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-04-29: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="408" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-04-30: GitHub 0 contributions, Cursor activity 72</title></rect>
-<text x="408" y="43" class="month">May</text>
-<rect x="408" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="408" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-02: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="422" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-03: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="422" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-04: GitHub 0 contributions, Cursor activity 8</title></rect>
-<rect x="422" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-05: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="422" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-06: GitHub 0 contributions, Cursor activity 10</title></rect>
-<rect x="422" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-07: GitHub 0 contributions, Cursor activity 37</title></rect>
-<rect x="422" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-08: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="422" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-09: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="436" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-10: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="436" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-11: GitHub 0 contributions, Cursor activity 6</title></rect>
-<rect x="436" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-12: GitHub 0 contributions, Cursor activity 8</title></rect>
-<rect x="436" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-13: GitHub 0 contributions, Cursor activity 116</title></rect>
-<rect x="436" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-14: GitHub 0 contributions, Cursor activity 142</title></rect>
-<rect x="436" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-15: GitHub 0 contributions, Cursor activity 42</title></rect>
-<rect x="436" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-16: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="450" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="450" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-18: GitHub 0 contributions, Cursor activity 169</title></rect>
-<rect x="450" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-19: GitHub 0 contributions, Cursor activity 126</title></rect>
-<rect x="450" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-20: GitHub 0 contributions, Cursor activity 53</title></rect>
-<rect x="450" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-21: GitHub 0 contributions, Cursor activity 25</title></rect>
-<rect x="450" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-22: GitHub 0 contributions, Cursor activity 51</title></rect>
-<rect x="450" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="464" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-24: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="464" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="464" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-26: GitHub 0 contributions, Cursor activity 54</title></rect>
-<rect x="464" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="464" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-28: GitHub 0 contributions, Cursor activity 13</title></rect>
-<rect x="464" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-05-29: GitHub 0 contributions, Cursor activity 94</title></rect>
-<rect x="464" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-30: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="478" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-05-31: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="478" y="43" class="month">Jun</text>
-<rect x="478" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-01: GitHub 0 contributions, Cursor activity 137</title></rect>
-<rect x="478" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-02: GitHub 0 contributions, Cursor activity 259</title></rect>
-<rect x="478" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-03: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="478" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-04: GitHub 0 contributions, Cursor activity 112</title></rect>
-<rect x="478" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-05: GitHub 0 contributions, Cursor activity 52</title></rect>
-<rect x="478" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-06: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="492" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-07: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="492" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-08: GitHub 0 contributions, Cursor activity 31</title></rect>
-<rect x="492" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-09: GitHub 0 contributions, Cursor activity 107</title></rect>
-<rect x="492" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-10: GitHub 0 contributions, Cursor activity 270</title></rect>
-<rect x="492" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-11: GitHub 0 contributions, Cursor activity 13</title></rect>
-<rect x="492" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-12: GitHub 0 contributions, Cursor activity 36</title></rect>
-<rect x="492" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-13: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="506" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-14: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="506" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-15: GitHub 0 contributions, Cursor activity 416</title></rect>
-<rect x="506" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-16: GitHub 0 contributions, Cursor activity 175</title></rect>
-<rect x="506" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-17: GitHub 0 contributions, Cursor activity 110</title></rect>
-<rect x="506" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-18: GitHub 0 contributions, Cursor activity 90</title></rect>
-<rect x="506" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="506" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-20: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="520" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-21: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="520" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-22: GitHub 0 contributions, Cursor activity 133</title></rect>
-<rect x="520" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-23: GitHub 0 contributions, Cursor activity 56</title></rect>
-<rect x="520" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-24: GitHub 0 contributions, Cursor activity 11</title></rect>
-<rect x="520" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-25: GitHub 0 contributions, Cursor activity 34</title></rect>
-<rect x="520" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-26: GitHub 0 contributions, Cursor activity 29</title></rect>
-<rect x="520" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-27: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="534" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-06-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="534" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-29: GitHub 0 contributions, Cursor activity 286</title></rect>
-<rect x="534" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-06-30: GitHub 0 contributions, Cursor activity 23</title></rect>
-<text x="534" y="43" class="month">Jul</text>
-<rect x="534" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-01: GitHub 0 contributions, Cursor activity 67</title></rect>
-<rect x="534" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-02: GitHub 0 contributions, Cursor activity 27</title></rect>
-<rect x="534" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-03: GitHub 0 contributions, Cursor activity 96</title></rect>
-<rect x="534" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-07-04: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="548" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-07-05: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="548" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-06: GitHub 0 contributions, Cursor activity 75</title></rect>
-<rect x="548" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-07: GitHub 0 contributions, Cursor activity 82</title></rect>
-<rect x="548" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-08: GitHub 0 contributions, Cursor activity 97</title></rect>
-<rect x="548" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-09: GitHub 0 contributions, Cursor activity 16</title></rect>
-<rect x="548" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-10: GitHub 0 contributions, Cursor activity 25</title></rect>
-<rect x="548" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-07-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="562" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-12: GitHub 0 contributions, Cursor activity 5</title></rect>
-<rect x="562" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-13: GitHub 0 contributions, Cursor activity 73</title></rect>
-<rect x="562" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-14: GitHub 0 contributions, Cursor activity 68</title></rect>
-<rect x="562" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-15: GitHub 0 contributions, Cursor activity 23</title></rect>
-<rect x="562" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-16: GitHub 0 contributions, Cursor activity 66</title></rect>
-<rect x="562" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-07-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="562" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-07-18: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="576" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-07-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="576" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-20: GitHub 0 contributions, Cursor activity 61</title></rect>
-<rect x="576" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-21: GitHub 0 contributions, Cursor activity 212</title></rect>
-<rect x="576" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-22: GitHub 0 contributions, Cursor activity 61</title></rect>
-<rect x="576" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-23: GitHub 0 contributions, Cursor activity 97</title></rect>
-<rect x="576" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-24: GitHub 0 contributions, Cursor activity 62</title></rect>
-<rect x="576" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-07-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="590" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-07-26: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="590" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-27: GitHub 0 contributions, Cursor activity 49</title></rect>
-<rect x="590" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-28: GitHub 0 contributions, Cursor activity 34</title></rect>
-<rect x="590" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-29: GitHub 0 contributions, Cursor activity 185</title></rect>
-<rect x="590" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-30: GitHub 0 contributions, Cursor activity 31</title></rect>
-<rect x="590" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-07-31: GitHub 0 contributions, Cursor activity 126</title></rect>
-<text x="590" y="43" class="month">Aug</text>
-<rect x="590" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="604" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-02: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="604" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-03: GitHub 0 contributions, Cursor activity 72</title></rect>
-<rect x="604" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-04: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="604" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-05: GitHub 0 contributions, Cursor activity 74</title></rect>
-<rect x="604" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-06: GitHub 0 contributions, Cursor activity 71</title></rect>
-<rect x="604" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-07: GitHub 0 contributions, Cursor activity 31</title></rect>
-<rect x="604" y="132" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-08: GitHub 0 contributions, Cursor activity 52</title></rect>
-<rect x="618" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-09: GitHub 0 contributions, Cursor activity 60</title></rect>
-<rect x="618" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-10: GitHub 0 contributions, Cursor activity 42</title></rect>
-<rect x="618" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-11: GitHub 0 contributions, Cursor activity 80</title></rect>
-<rect x="618" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-12: GitHub 0 contributions, Cursor activity 32</title></rect>
-<rect x="618" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-13: GitHub 0 contributions, Cursor activity 85</title></rect>
-<rect x="618" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-14: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="618" y="132" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-15: GitHub 0 contributions, Cursor activity 2</title></rect>
-<rect x="632" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-16: GitHub 0 contributions, Cursor activity 5</title></rect>
-<rect x="632" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="632" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-18: GitHub 0 contributions, Cursor activity 3</title></rect>
-<rect x="632" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="632" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-20: GitHub 0 contributions, Cursor activity 3</title></rect>
-<rect x="632" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-21: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="632" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-22: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="646" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="646" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-24: GitHub 0 contributions, Cursor activity 81</title></rect>
-<rect x="646" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-25: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="646" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-26: GitHub 0 contributions, Cursor activity 2</title></rect>
-<rect x="646" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-27: GitHub 0 contributions, Cursor activity 2</title></rect>
-<rect x="646" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-08-28: GitHub 0 contributions, Cursor activity 53</title></rect>
-<rect x="646" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-29: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="660" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-30: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="660" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-08-31: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="660" y="43" class="month">Sep</text>
-<rect x="660" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-01: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="660" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-02: GitHub 0 contributions, Cursor activity 6</title></rect>
-<rect x="660" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-03: GitHub 0 contributions, Cursor activity 21</title></rect>
-<rect x="660" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-04: GitHub 0 contributions, Cursor activity 6</title></rect>
-<rect x="660" y="132" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-05: GitHub 0 contributions, Cursor activity 125</title></rect>
-<rect x="674" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-06: GitHub 0 contributions, Cursor activity 22</title></rect>
-<rect x="674" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-07: GitHub 0 contributions, Cursor activity 105</title></rect>
-<rect x="674" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-08: GitHub 0 contributions, Cursor activity 10</title></rect>
-<rect x="674" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-09: GitHub 0 contributions, Cursor activity 35</title></rect>
-<rect x="674" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-10: GitHub 0 contributions, Cursor activity 7</title></rect>
-<rect x="674" y="118" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="674" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-12: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="688" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-13: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="688" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-14: GitHub 0 contributions, Cursor activity 6</title></rect>
-<rect x="688" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-15: GitHub 0 contributions, Cursor activity 114</title></rect>
-<rect x="688" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-16: GitHub 0 contributions, Cursor activity 23</title></rect>
-<rect x="688" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-17: GitHub 0 contributions, Cursor activity 5</title></rect>
-<rect x="688" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-18: GitHub 0 contributions, Cursor activity 36</title></rect>
-<rect x="688" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="702" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-20: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="702" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-21: GitHub 0 contributions, Cursor activity 7</title></rect>
-<rect x="702" y="76" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-22: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="702" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-23: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="702" y="104" width="11" height="11" rx="2" fill="#21262d"><title>2026-09-24: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="702" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-25: GitHub 0 contributions, Cursor activity 2</title></rect>
-<rect x="702" y="132" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-26: GitHub 0 contributions, Cursor activity 6</title></rect>
-<rect x="716" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-27: GitHub 0 contributions, Cursor activity 401</title></rect>
-<rect x="716" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-28: GitHub 0 contributions, Cursor activity 8</title></rect>
-<rect x="716" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-29: GitHub 0 contributions, Cursor activity 83</title></rect>
-<rect x="716" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-09-30: GitHub 0 contributions, Cursor activity 210</title></rect>
-<text x="716" y="43" class="month">Oct</text>
-<rect x="716" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-01: GitHub 0 contributions, Cursor activity 241</title></rect>
-<rect x="716" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-02: GitHub 0 contributions, Cursor activity 1291</title></rect>
-<rect x="716" y="132" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-03: GitHub 0 contributions, Cursor activity 252</title></rect>
-<rect x="730" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-04: GitHub 0 contributions, Cursor activity 882</title></rect>
-<rect x="730" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-05: GitHub 0 contributions, Cursor activity 493</title></rect>
-<rect x="730" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-06: GitHub 0 contributions, Cursor activity 122</title></rect>
-<rect x="730" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-07: GitHub 0 contributions, Cursor activity 82</title></rect>
-<rect x="730" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-08: GitHub 0 contributions, Cursor activity 185</title></rect>
-<rect x="730" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-09: GitHub 0 contributions, Cursor activity 191</title></rect>
-<rect x="730" y="132" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-10: GitHub 0 contributions, Cursor activity 1799</title></rect>
-<rect x="744" y="48" width="11" height="11" rx="2" fill="#21262d"><title>2026-10-11: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="744" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-12: GitHub 0 contributions, Cursor activity 1195</title></rect>
-<rect x="744" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-13: GitHub 0 contributions, Cursor activity 1</title></rect>
-<rect x="744" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-14: GitHub 0 contributions, Cursor activity 44</title></rect>
-<rect x="744" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-15: GitHub 0 contributions, Cursor activity 106</title></rect>
-<rect x="744" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-16: GitHub 0 contributions, Cursor activity 47</title></rect>
-<rect x="744" y="132" width="11" height="11" rx="2" fill="#21262d"><title>2026-10-17: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="758" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-18: GitHub 0 contributions, Cursor activity 1</title></rect>
-<rect x="758" y="62" width="11" height="11" rx="2" fill="#21262d"><title>2026-10-19: GitHub 0 contributions, Cursor activity 0</title></rect>
-<rect x="758" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-20: GitHub 0 contributions, Cursor activity 54</title></rect>
-<rect x="758" y="90" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-21: GitHub 0 contributions, Cursor activity 294</title></rect>
-<rect x="758" y="104" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-22: GitHub 0 contributions, Cursor activity 54</title></rect>
-<rect x="758" y="118" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-23: GitHub 0 contributions, Cursor activity 333</title></rect>
-<rect x="758" y="132" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-24: GitHub 0 contributions, Cursor activity 149</title></rect>
-<rect x="772" y="48" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-25: GitHub 0 contributions, Cursor activity 139</title></rect>
-<rect x="772" y="62" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-26: GitHub 0 contributions, Cursor activity 37</title></rect>
-<rect x="772" y="76" width="11" height="11" rx="2" fill="#58a6ff"><title>2026-10-27: GitHub 0 contributions, Cursor activity 3</title></rect>
-<rect x="772" y="90" width="11" height="11" rx="2" fill="#21262d"><title>2026-10-28: GitHub 0 contributions, Cursor activity 0</title></rect>
-<text x="18" y="175" class="sub">GitHub only 0 days · Cursor only 123 days · Both 0 days</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="325" viewBox="0 0 940 325" role="img" aria-label="GitHub and Cursor combined contribution activity in 2026">
+<rect width="940" height="325" rx="16" fill="#FFFFFF"/>
+<rect x=".5" y=".5" width="939" height="324" rx="15.5" fill="none" stroke="#E4EAF2"/>
+<text x="28" y="36" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#18263B">Development activity</text>
+<text x="28" y="56" font-family="Arial,sans-serif" font-size="11.5" fill="#69778B">GitHub + Cursor  ·  Jan–Oct 2026  ·  Combined activity</text>
+<text x="17" y="113" font-family="Arial,sans-serif" font-size="10.5" fill="#8290A2">Mon</text>
+<text x="17" y="149" font-family="Arial,sans-serif" font-size="10.5" fill="#8290A2">Wed</text>
+<text x="17" y="185" font-family="Arial,sans-serif" font-size="10.5" fill="#8290A2">Fri</text>
+<rect x="49" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2025-12-28: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="49" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2025-12-29: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="49" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2025-12-30: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="49" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2025-12-31: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<text x="49" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Jan</text>
+<rect x="49" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-01: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="49" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-02: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="49" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-03: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="67" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-04: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="67" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-05: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="67" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-06: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="67" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-07: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="67" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-08: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="67" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-09: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="67" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-10: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="85" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-11: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="85" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-12: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="85" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-13: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="85" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-14: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="85" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-15: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="85" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-16: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="85" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-17: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="103" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-18: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="103" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-19: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="103" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-20: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="103" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-21: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="103" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-22: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="103" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-23: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="103" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-24: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="121" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-25: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="121" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-26: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="121" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-27: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="121" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-28: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="121" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-29: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="121" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-30: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="121" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-01-31: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<text x="139" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Feb</text>
+<rect x="139" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-01: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="139" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-02: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="139" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-03: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="139" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-04: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="139" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-05: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="139" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-06: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="139" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-07: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="157" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-08: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="157" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-09: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="157" y="120" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-02-10: GitHub 1 contributions; Cursor activity score 0</title></rect>
+<rect x="157" y="138" width="14" height="14" rx="3" fill="#639DE4"><title>2026-02-11: GitHub 9 contributions; Cursor activity score 0</title></rect>
+<rect x="157" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-12: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="157" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-13: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="157" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-14: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="175" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-15: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="175" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-16: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="175" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-17: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="175" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-18: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="175" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-19: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="175" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-20: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="175" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-21: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="193" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-22: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="193" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-23: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="193" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-24: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="193" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-25: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="193" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-26: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="193" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-27: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="193" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-02-28: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<text x="211" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Mar</text>
+<rect x="211" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-01: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="211" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-02: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="211" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-03: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="211" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-04: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="211" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-05: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="211" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-06: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="211" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-07: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="229" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-08: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="229" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-09: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="229" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-10: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="229" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-11: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="229" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-12: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="229" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-13: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="229" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-14: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="247" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-15: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="247" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-16: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="247" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-17: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="247" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-18: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="247" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-19: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="247" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-20: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="247" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-21: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="265" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-22: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="265" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-23: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="265" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-24: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="265" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-25: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="265" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-26: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="265" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-27: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="265" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-28: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="283" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-29: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="283" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-30: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="283" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-03-31: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<text x="283" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Apr</text>
+<rect x="283" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-01: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="283" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-02: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="283" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-03: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="283" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-04: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="301" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-05: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="301" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-06: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="301" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-07: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="301" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-08: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="301" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-09: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="301" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-10: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="301" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-11: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="319" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-12: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="319" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-13: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="319" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-14: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="319" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-15: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="319" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-16: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="319" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-17: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="319" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-18: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="337" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-19: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="337" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-20: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="337" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-21: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="337" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-22: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="337" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-23: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="337" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-24: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="337" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-25: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="355" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-26: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="355" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-27: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="355" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-28: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="355" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-04-29: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="355" y="156" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-04-30: GitHub 0 contributions; Cursor activity score 72</title></rect>
+<text x="355" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">May</text>
+<rect x="355" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-01: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="355" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-02: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="373" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-03: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="373" y="102" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-05-04: GitHub 0 contributions; Cursor activity score 8</title></rect>
+<rect x="373" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-05: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="373" y="138" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-05-06: GitHub 0 contributions; Cursor activity score 10</title></rect>
+<rect x="373" y="156" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-05-07: GitHub 0 contributions; Cursor activity score 37</title></rect>
+<rect x="373" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-08: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="373" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-09: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="391" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-10: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="391" y="102" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-05-11: GitHub 0 contributions; Cursor activity score 6</title></rect>
+<rect x="391" y="120" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-05-12: GitHub 0 contributions; Cursor activity score 8</title></rect>
+<rect x="391" y="138" width="14" height="14" rx="3" fill="#639DE4"><title>2026-05-13: GitHub 0 contributions; Cursor activity score 116</title></rect>
+<rect x="391" y="156" width="14" height="14" rx="3" fill="#2869B7"><title>2026-05-14: GitHub 0 contributions; Cursor activity score 142</title></rect>
+<rect x="391" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-05-15: GitHub 0 contributions; Cursor activity score 42</title></rect>
+<rect x="391" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-16: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="409" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-17: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="409" y="102" width="14" height="14" rx="3" fill="#2869B7"><title>2026-05-18: GitHub 0 contributions; Cursor activity score 169</title></rect>
+<rect x="409" y="120" width="14" height="14" rx="3" fill="#639DE4"><title>2026-05-19: GitHub 0 contributions; Cursor activity score 126</title></rect>
+<rect x="409" y="138" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-05-20: GitHub 0 contributions; Cursor activity score 53</title></rect>
+<rect x="409" y="156" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-05-21: GitHub 0 contributions; Cursor activity score 25</title></rect>
+<rect x="409" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-05-22: GitHub 0 contributions; Cursor activity score 51</title></rect>
+<rect x="409" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-23: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="427" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-24: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="427" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-25: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="427" y="120" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-05-26: GitHub 0 contributions; Cursor activity score 54</title></rect>
+<rect x="427" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-27: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="427" y="156" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-05-28: GitHub 0 contributions; Cursor activity score 13</title></rect>
+<rect x="427" y="174" width="14" height="14" rx="3" fill="#639DE4"><title>2026-05-29: GitHub 0 contributions; Cursor activity score 94</title></rect>
+<rect x="427" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-30: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="445" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-05-31: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<text x="445" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Jun</text>
+<rect x="445" y="102" width="14" height="14" rx="3" fill="#639DE4"><title>2026-06-01: GitHub 0 contributions; Cursor activity score 137</title></rect>
+<rect x="445" y="120" width="14" height="14" rx="3" fill="#2869B7"><title>2026-06-02: GitHub 0 contributions; Cursor activity score 259</title></rect>
+<rect x="445" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-03: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="445" y="156" width="14" height="14" rx="3" fill="#639DE4"><title>2026-06-04: GitHub 0 contributions; Cursor activity score 112</title></rect>
+<rect x="445" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-06-05: GitHub 0 contributions; Cursor activity score 52</title></rect>
+<rect x="445" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-06: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="463" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-07: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="463" y="102" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-06-08: GitHub 0 contributions; Cursor activity score 31</title></rect>
+<rect x="463" y="120" width="14" height="14" rx="3" fill="#639DE4"><title>2026-06-09: GitHub 0 contributions; Cursor activity score 107</title></rect>
+<rect x="463" y="138" width="14" height="14" rx="3" fill="#2869B7"><title>2026-06-10: GitHub 0 contributions; Cursor activity score 270</title></rect>
+<rect x="463" y="156" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-06-11: GitHub 0 contributions; Cursor activity score 13</title></rect>
+<rect x="463" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-06-12: GitHub 0 contributions; Cursor activity score 36</title></rect>
+<rect x="463" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-13: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="481" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-14: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="481" y="102" width="14" height="14" rx="3" fill="#2869B7"><title>2026-06-15: GitHub 0 contributions; Cursor activity score 416</title></rect>
+<rect x="481" y="120" width="14" height="14" rx="3" fill="#2869B7"><title>2026-06-16: GitHub 0 contributions; Cursor activity score 175</title></rect>
+<rect x="481" y="138" width="14" height="14" rx="3" fill="#639DE4"><title>2026-06-17: GitHub 0 contributions; Cursor activity score 110</title></rect>
+<rect x="481" y="156" width="14" height="14" rx="3" fill="#639DE4"><title>2026-06-18: GitHub 0 contributions; Cursor activity score 90</title></rect>
+<rect x="481" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-19: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="481" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-20: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="499" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-21: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="499" y="102" width="14" height="14" rx="3" fill="#639DE4"><title>2026-06-22: GitHub 0 contributions; Cursor activity score 133</title></rect>
+<rect x="499" y="120" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-06-23: GitHub 0 contributions; Cursor activity score 56</title></rect>
+<rect x="499" y="138" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-06-24: GitHub 0 contributions; Cursor activity score 11</title></rect>
+<rect x="499" y="156" width="14" height="14" rx="3" fill="#639DE4"><title>2026-06-25: GitHub 5 contributions; Cursor activity score 34</title></rect>
+<rect x="499" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-06-26: GitHub 0 contributions; Cursor activity score 29</title></rect>
+<rect x="499" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-27: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="517" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-06-28: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="517" y="102" width="14" height="14" rx="3" fill="#2869B7"><title>2026-06-29: GitHub 0 contributions; Cursor activity score 286</title></rect>
+<rect x="517" y="120" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-06-30: GitHub 0 contributions; Cursor activity score 23</title></rect>
+<text x="517" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Jul</text>
+<rect x="517" y="138" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-07-01: GitHub 0 contributions; Cursor activity score 67</title></rect>
+<rect x="517" y="156" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-07-02: GitHub 0 contributions; Cursor activity score 27</title></rect>
+<rect x="517" y="174" width="14" height="14" rx="3" fill="#639DE4"><title>2026-07-03: GitHub 0 contributions; Cursor activity score 96</title></rect>
+<rect x="517" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-07-04: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="535" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-07-05: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="535" y="102" width="14" height="14" rx="3" fill="#639DE4"><title>2026-07-06: GitHub 0 contributions; Cursor activity score 75</title></rect>
+<rect x="535" y="120" width="14" height="14" rx="3" fill="#639DE4"><title>2026-07-07: GitHub 0 contributions; Cursor activity score 82</title></rect>
+<rect x="535" y="138" width="14" height="14" rx="3" fill="#639DE4"><title>2026-07-08: GitHub 0 contributions; Cursor activity score 97</title></rect>
+<rect x="535" y="156" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-07-09: GitHub 0 contributions; Cursor activity score 16</title></rect>
+<rect x="535" y="174" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-07-10: GitHub 0 contributions; Cursor activity score 25</title></rect>
+<rect x="535" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-07-11: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="553" y="84" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-07-12: GitHub 0 contributions; Cursor activity score 5</title></rect>
+<rect x="553" y="102" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-07-13: GitHub 0 contributions; Cursor activity score 73</title></rect>
+<rect x="553" y="120" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-07-14: GitHub 0 contributions; Cursor activity score 68</title></rect>
+<rect x="553" y="138" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-07-15: GitHub 0 contributions; Cursor activity score 23</title></rect>
+<rect x="553" y="156" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-07-16: GitHub 0 contributions; Cursor activity score 66</title></rect>
+<rect x="553" y="174" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-07-17: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="553" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-07-18: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="571" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-07-19: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="571" y="102" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-07-20: GitHub 0 contributions; Cursor activity score 61</title></rect>
+<rect x="571" y="120" width="14" height="14" rx="3" fill="#2869B7"><title>2026-07-21: GitHub 12 contributions; Cursor activity score 212</title></rect>
+<rect x="571" y="138" width="14" height="14" rx="3" fill="#2869B7"><title>2026-07-22: GitHub 12 contributions; Cursor activity score 61</title></rect>
+<rect x="571" y="156" width="14" height="14" rx="3" fill="#639DE4"><title>2026-07-23: GitHub 0 contributions; Cursor activity score 97</title></rect>
+<rect x="571" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-07-24: GitHub 0 contributions; Cursor activity score 62</title></rect>
+<rect x="571" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-07-25: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="589" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-07-26: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="589" y="102" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-07-27: GitHub 0 contributions; Cursor activity score 49</title></rect>
+<rect x="589" y="120" width="14" height="14" rx="3" fill="#639DE4"><title>2026-07-28: GitHub 6 contributions; Cursor activity score 34</title></rect>
+<rect x="589" y="138" width="14" height="14" rx="3" fill="#2869B7"><title>2026-07-29: GitHub 0 contributions; Cursor activity score 185</title></rect>
+<rect x="589" y="156" width="14" height="14" rx="3" fill="#639DE4"><title>2026-07-30: GitHub 6 contributions; Cursor activity score 31</title></rect>
+<rect x="589" y="174" width="14" height="14" rx="3" fill="#639DE4"><title>2026-07-31: GitHub 0 contributions; Cursor activity score 126</title></rect>
+<text x="589" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Aug</text>
+<rect x="589" y="192" width="14" height="14" rx="3" fill="#2869B7"><title>2026-08-01: GitHub 18 contributions; Cursor activity score 0</title></rect>
+<rect x="607" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-08-02: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="607" y="102" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-08-03: GitHub 0 contributions; Cursor activity score 72</title></rect>
+<rect x="607" y="120" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-08-04: GitHub 6 contributions; Cursor activity score 0</title></rect>
+<rect x="607" y="138" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-08-05: GitHub 0 contributions; Cursor activity score 74</title></rect>
+<rect x="607" y="156" width="14" height="14" rx="3" fill="#2869B7"><title>2026-08-06: GitHub 30 contributions; Cursor activity score 71</title></rect>
+<rect x="607" y="174" width="14" height="14" rx="3" fill="#639DE4"><title>2026-08-07: GitHub 6 contributions; Cursor activity score 31</title></rect>
+<rect x="607" y="192" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-08-08: GitHub 0 contributions; Cursor activity score 52</title></rect>
+<rect x="625" y="84" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-08-09: GitHub 0 contributions; Cursor activity score 60</title></rect>
+<rect x="625" y="102" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-08-10: GitHub 0 contributions; Cursor activity score 42</title></rect>
+<rect x="625" y="120" width="14" height="14" rx="3" fill="#639DE4"><title>2026-08-11: GitHub 6 contributions; Cursor activity score 80</title></rect>
+<rect x="625" y="138" width="14" height="14" rx="3" fill="#639DE4"><title>2026-08-12: GitHub 6 contributions; Cursor activity score 32</title></rect>
+<rect x="625" y="156" width="14" height="14" rx="3" fill="#2869B7"><title>2026-08-13: GitHub 6 contributions; Cursor activity score 85</title></rect>
+<rect x="625" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-08-14: GitHub 6 contributions; Cursor activity score 0</title></rect>
+<rect x="625" y="192" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-08-15: GitHub 0 contributions; Cursor activity score 2</title></rect>
+<rect x="643" y="84" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-08-16: GitHub 0 contributions; Cursor activity score 5</title></rect>
+<rect x="643" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-08-17: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="643" y="120" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-08-18: GitHub 0 contributions; Cursor activity score 3</title></rect>
+<rect x="643" y="138" width="14" height="14" rx="3" fill="#2869B7"><title>2026-08-19: GitHub 18 contributions; Cursor activity score 0</title></rect>
+<rect x="643" y="156" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-08-20: GitHub 0 contributions; Cursor activity score 3</title></rect>
+<rect x="643" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-08-21: GitHub 6 contributions; Cursor activity score 0</title></rect>
+<rect x="643" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-08-22: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="661" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-08-23: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="661" y="102" width="14" height="14" rx="3" fill="#639DE4"><title>2026-08-24: GitHub 0 contributions; Cursor activity score 81</title></rect>
+<rect x="661" y="120" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-08-25: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="661" y="138" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-08-26: GitHub 0 contributions; Cursor activity score 2</title></rect>
+<rect x="661" y="156" width="14" height="14" rx="3" fill="#639DE4"><title>2026-08-27: GitHub 12 contributions; Cursor activity score 2</title></rect>
+<rect x="661" y="174" width="14" height="14" rx="3" fill="#639DE4"><title>2026-08-28: GitHub 6 contributions; Cursor activity score 53</title></rect>
+<rect x="661" y="192" width="14" height="14" rx="3" fill="#639DE4"><title>2026-08-29: GitHub 12 contributions; Cursor activity score 0</title></rect>
+<rect x="679" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-08-30: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="679" y="102" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-08-31: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<text x="679" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Sep</text>
+<rect x="679" y="120" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-09-01: GitHub 6 contributions; Cursor activity score 0</title></rect>
+<rect x="679" y="138" width="14" height="14" rx="3" fill="#2869B7"><title>2026-09-02: GitHub 14 contributions; Cursor activity score 6</title></rect>
+<rect x="679" y="156" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-09-03: GitHub 5 contributions; Cursor activity score 21</title></rect>
+<rect x="679" y="174" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-04: GitHub 2 contributions; Cursor activity score 6</title></rect>
+<rect x="679" y="192" width="14" height="14" rx="3" fill="#639DE4"><title>2026-09-05: GitHub 0 contributions; Cursor activity score 125</title></rect>
+<rect x="697" y="84" width="14" height="14" rx="3" fill="#639DE4"><title>2026-09-06: GitHub 10 contributions; Cursor activity score 22</title></rect>
+<rect x="697" y="102" width="14" height="14" rx="3" fill="#639DE4"><title>2026-09-07: GitHub 2 contributions; Cursor activity score 105</title></rect>
+<rect x="697" y="120" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-08: GitHub 0 contributions; Cursor activity score 10</title></rect>
+<rect x="697" y="138" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-09-09: GitHub 0 contributions; Cursor activity score 35</title></rect>
+<rect x="697" y="156" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-10: GitHub 1 contributions; Cursor activity score 7</title></rect>
+<rect x="697" y="174" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-11: GitHub 2 contributions; Cursor activity score 0</title></rect>
+<rect x="697" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-09-12: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="715" y="84" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-13: GitHub 1 contributions; Cursor activity score 0</title></rect>
+<rect x="715" y="102" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-14: GitHub 2 contributions; Cursor activity score 6</title></rect>
+<rect x="715" y="120" width="14" height="14" rx="3" fill="#639DE4"><title>2026-09-15: GitHub 0 contributions; Cursor activity score 114</title></rect>
+<rect x="715" y="138" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-09-16: GitHub 4 contributions; Cursor activity score 23</title></rect>
+<rect x="715" y="156" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-17: GitHub 0 contributions; Cursor activity score 5</title></rect>
+<rect x="715" y="174" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-09-18: GitHub 1 contributions; Cursor activity score 36</title></rect>
+<rect x="715" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-09-19: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="733" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-09-20: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="733" y="102" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-21: GitHub 1 contributions; Cursor activity score 7</title></rect>
+<rect x="733" y="120" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-22: GitHub 1 contributions; Cursor activity score 0</title></rect>
+<rect x="733" y="138" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-09-23: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="733" y="156" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-09-24: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="733" y="174" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-25: GitHub 1 contributions; Cursor activity score 2</title></rect>
+<rect x="733" y="192" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-26: GitHub 0 contributions; Cursor activity score 6</title></rect>
+<rect x="751" y="84" width="14" height="14" rx="3" fill="#2869B7"><title>2026-09-27: GitHub 0 contributions; Cursor activity score 401</title></rect>
+<rect x="751" y="102" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-09-28: GitHub 0 contributions; Cursor activity score 8</title></rect>
+<rect x="751" y="120" width="14" height="14" rx="3" fill="#639DE4"><title>2026-09-29: GitHub 2 contributions; Cursor activity score 83</title></rect>
+<rect x="751" y="138" width="14" height="14" rx="3" fill="#2869B7"><title>2026-09-30: GitHub 1 contributions; Cursor activity score 210</title></rect>
+<text x="751" y="74" font-family="Arial,sans-serif" font-size="11" fill="#68788D">Oct</text>
+<rect x="751" y="156" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-01: GitHub 9 contributions; Cursor activity score 241</title></rect>
+<rect x="751" y="174" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-02: GitHub 4 contributions; Cursor activity score 1291</title></rect>
+<rect x="751" y="192" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-03: GitHub 10 contributions; Cursor activity score 252</title></rect>
+<rect x="769" y="84" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-04: GitHub 21 contributions; Cursor activity score 882</title></rect>
+<rect x="769" y="102" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-05: GitHub 22 contributions; Cursor activity score 493</title></rect>
+<rect x="769" y="120" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-06: GitHub 18 contributions; Cursor activity score 122</title></rect>
+<rect x="769" y="138" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-07: GitHub 11 contributions; Cursor activity score 82</title></rect>
+<rect x="769" y="156" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-08: GitHub 0 contributions; Cursor activity score 185</title></rect>
+<rect x="769" y="174" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-09: GitHub 0 contributions; Cursor activity score 191</title></rect>
+<rect x="769" y="192" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-10: GitHub 1 contributions; Cursor activity score 1799</title></rect>
+<rect x="787" y="84" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-10-11: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="787" y="102" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-12: GitHub 0 contributions; Cursor activity score 1195</title></rect>
+<rect x="787" y="120" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-10-13: GitHub 0 contributions; Cursor activity score 1</title></rect>
+<rect x="787" y="138" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-10-14: GitHub 0 contributions; Cursor activity score 44</title></rect>
+<rect x="787" y="156" width="14" height="14" rx="3" fill="#639DE4"><title>2026-10-15: GitHub 3 contributions; Cursor activity score 106</title></rect>
+<rect x="787" y="174" width="14" height="14" rx="3" fill="#639DE4"><title>2026-10-16: GitHub 3 contributions; Cursor activity score 47</title></rect>
+<rect x="787" y="192" width="14" height="14" rx="3" fill="#EFF2F6"><title>2026-10-17: GitHub 0 contributions; Cursor activity score 0</title></rect>
+<rect x="805" y="84" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-10-18: GitHub 2 contributions; Cursor activity score 1</title></rect>
+<rect x="805" y="102" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-10-19: GitHub 1 contributions; Cursor activity score 0</title></rect>
+<rect x="805" y="120" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-20: GitHub 10 contributions; Cursor activity score 54</title></rect>
+<rect x="805" y="138" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-21: GitHub 8 contributions; Cursor activity score 294</title></rect>
+<rect x="805" y="156" width="14" height="14" rx="3" fill="#639DE4"><title>2026-10-22: GitHub 6 contributions; Cursor activity score 54</title></rect>
+<rect x="805" y="174" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-23: GitHub 10 contributions; Cursor activity score 333</title></rect>
+<rect x="805" y="192" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-24: GitHub 8 contributions; Cursor activity score 149</title></rect>
+<rect x="823" y="84" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-25: GitHub 2 contributions; Cursor activity score 139</title></rect>
+<rect x="823" y="102" width="14" height="14" rx="3" fill="#2869B7"><title>2026-10-26: GitHub 12 contributions; Cursor activity score 37</title></rect>
+<rect x="823" y="120" width="14" height="14" rx="3" fill="#DCEBFC"><title>2026-10-27: GitHub 2 contributions; Cursor activity score 3</title></rect>
+<rect x="823" y="138" width="14" height="14" rx="3" fill="#A8C9F5"><title>2026-10-28: GitHub 4 contributions; Cursor activity score 0</title></rect>
+<text x="49" y="234" font-family="Arial,sans-serif" font-size="11" fill="#64748B">Less</text>
+<rect x="89" y="224" width="13" height="13" rx="3" fill="#EFF2F6"/>
+<rect x="108" y="224" width="13" height="13" rx="3" fill="#DCEBFC"/>
+<rect x="127" y="224" width="13" height="13" rx="3" fill="#A8C9F5"/>
+<rect x="146" y="224" width="13" height="13" rx="3" fill="#639DE4"/>
+<rect x="165" y="224" width="13" height="13" rx="3" fill="#2869B7"/>
+<text x="190" y="234" font-family="Arial,sans-serif" font-size="11" fill="#64748B">More</text>
+<line x1="28" y1="253" x2="912" y2="253" stroke="#E8EDF4"/>
+<text x="29" y="274" font-family="Arial,sans-serif" font-size="10" font-weight="600" fill="#8290A3">GITHUB CONTRIBUTIONS · 2026</text>
+<text x="29" y="304" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#213752">412</text>
+<text x="259" y="274" font-family="Arial,sans-serif" font-size="10" font-weight="600" fill="#8290A3">CURSOR AI LINE EDITS</text>
+<text x="259" y="304" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#213752">174,241</text>
+<text x="515" y="274" font-family="Arial,sans-serif" font-size="10" font-weight="600" fill="#8290A3">MOST ACTIVE MONTH</text>
+<text x="515" y="304" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#213752">Jun 2026</text>
+<text x="749" y="274" font-family="Arial,sans-serif" font-size="10" font-weight="600" fill="#8290A3">LONGEST STREAK</text>
+<text x="749" y="304" font-family="Arial,sans-serif" font-size="23" font-weight="700" fill="#213752">9 days</text>
+</svg>
